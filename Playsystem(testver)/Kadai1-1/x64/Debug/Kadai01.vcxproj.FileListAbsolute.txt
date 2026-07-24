@@ -1,0 +1,4 @@
+D:\25CI0419\C言語1\Kadai01\x64\Debug\Kadai01.exe
+D:\25CI0419\C言語1\kadaiEX1\KadaiEX1-1\x64\Debug\Kadai01.exe
+D:\25CI0419\C言語1\kadaiEX1\KadaiEX1-2\x64\Debug\Kadai01.exe
+D:\25CI0419\C言語1\kadaiEX1\KadaiEX1-3\x64\Debug\Kadai01.exe
